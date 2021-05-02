@@ -1,0 +1,2 @@
+export const FEACH_POSTERS = "FEACH_POSTERS";
+export const SEARCHED_POSTERS = "SEARCHED_POSTERS";
