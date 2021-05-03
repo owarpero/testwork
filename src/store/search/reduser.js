@@ -9,6 +9,7 @@ export default function searchReduser(
       return { ...state, searchText: action.payload };
     case SEARCHED_POSTERS:
       return { ...state, data: action.payload };
+
     default:
       return state;
   }
